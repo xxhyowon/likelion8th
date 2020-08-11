@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    width: 600px;
+    margin: 0 auto;
+}
+
+.header{
+    width: 100% ;
+    height: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.container{
+    width: 100%;
+    height: 400px;
+    margin-top: 50px;
+    display: flex;
+}
+
+
+
+.lamp {
+    width: 100%;
+    
+   
+}
+
+.add_icon {
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+}
+
+.camera {
+    width: 100%;
+    height: 100%;
+}
+
+.video {
+    width: 544px;
+   
+    margin-bottom: 50px;
+}
+
+.footer{
+    border: 2px red;
+    height: 20px;
+    width: 600px;
+    background-color: rosybrown;
+    display: flex;
+    float: inline-end;
+}
+
+.footer-item{
+    flex: 1;
+}

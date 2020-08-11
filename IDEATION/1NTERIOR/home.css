@@ -1,0 +1,99 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    border: 2px red;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.header{
+    border: 2px red;
+    width: 100% ;
+    height: 50px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.bar1{
+   
+    width: 100% ;
+    height: 20 px;
+    margin-bottom: 20px;
+}
+
+.info{
+    border-top: double;
+    border-bottom: double;
+    width: 100%;
+    height: 70px;
+    text-align: center;
+    font-style: italic;
+}
+
+.button{
+    float: right;
+    
+
+}
+.container{
+    border: 2px red;
+    margin-top: 20px;
+    width: 100% ;
+    height: 600px
+}
+
+.leftmenu{
+    border: 2px red;
+    width: 25%;
+    height: 100%;
+    float: left;
+  
+}
+
+.lamp{
+    background-color: blanchedalmond;
+
+}
+
+.contents{
+    border: 2px red;
+    width: 70%;
+    height: 600px;
+    float: right;
+}
+
+.howtouse{
+    width:100%;
+    height:70px;
+    border:2px solid grey;
+    margin-top: 20PX;
+}
+.p1{
+    width: 100%;
+    height: 100%;
+}
+
+.footer{
+    border: 2px red;
+    height: 20px;
+    width: 100%;
+    background-color: rosybrown;
+    display: flex;
+}
+
+.footer-item{
+    flex: 1;
+}
+
+.lamp{
+    border: none;
+    text-align: center;
+}
+
+.how_to_use{
+    border: none;
+    text-align: center;
+}
